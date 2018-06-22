@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.cast.tools.util.TestTomcatInstallationsListLoader" duration-ms="115" started-at="2018-06-14T07:17:54Z" finished-at="2018-06-14T07:17:54Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="115" started-at="2018-06-14T07:17:54Z" finished-at="2018-06-14T07:17:54Z">
+      <class name="com.cast.tools.util.TestTomcatInstallationsListLoader">
+        <test-method status="PASS" signature="testFetchTomcatInstallationsList()[pri:0, instance:com.cast.tools.util.TestTomcatInstallationsListLoader@7e0babb1]" name="testFetchTomcatInstallationsList" duration-ms="105" started-at="2018-06-14T12:47:54Z" finished-at="2018-06-14T12:47:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFetchTomcatInstallationsList -->
+      </class> <!-- com.cast.tools.util.TestTomcatInstallationsListLoader -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.cast.tools.util.TestTomcatInstallationsListLoader -->
+</testng-results>

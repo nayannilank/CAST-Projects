@@ -1,0 +1,12 @@
+2018-06-10 17:35:27 INFO  SnapshotUtil:23 - Starting to fetch snapshot details.
+2018-06-10 17:35:27 INFO  PropertyUtil:24 - Loading CSS Hosts list.
+2018-06-10 17:35:27 INFO  PropertyUtil:31 - Loaded CSS Hosts list : GAICVMCSS2.CORP.CASTSOFTWARE.COM,GAICVMCSS5.CORP.CASTSOFTWARE.COM,GAICVMCSS6.CORP.CASTSOFTWARE.COM,GAICVMCSS7.CORP.CASTSOFTWARE.COM,GAICVMCSS8.CORP.CASTSOFTWARE.COM,GAICVMCSS9.CORP.CASTSOFTWARE.COM,GAICVMORNGCSS2.CORP.CASTSOFTWARE.COM
+2018-06-10 17:35:27 INFO  PropertyUtil:42 - Fetching CSS Hosts list from : GAICVMCSS2.CORP.CASTSOFTWARE.COM,GAICVMCSS5.CORP.CASTSOFTWARE.COM,GAICVMCSS6.CORP.CASTSOFTWARE.COM,GAICVMCSS7.CORP.CASTSOFTWARE.COM,GAICVMCSS8.CORP.CASTSOFTWARE.COM,GAICVMCSS9.CORP.CASTSOFTWARE.COM,GAICVMORNGCSS2.CORP.CASTSOFTWARE.COM
+2018-06-10 17:35:27 INFO  SnapshotUtil:26 - Creating file for CSS Host : GAICVMCSS2.CORP.CASTSOFTWARE.COM
+2018-06-10 17:35:27 INFO  SnapshotUtil:32 - Writing headers in : GAICVMCSS2.csv
+2018-06-10 17:36:00 INFO  DBUtils:24 - Connecting to CSS Server :GAICVMCSS2.CORP.CASTSOFTWARE.COM
+2018-06-10 17:36:16 INFO  DBUtils:29 - URL to connect to DB : jdbc:postgresql://GAICVMCSS2.CORP.CASTSOFTWARE.COM:2280/postgres?user=operator&password=CastAIP&ssl=false
+2018-06-10 17:37:05 ERROR DBUtils:34 - Could not connect to the db with given credentials : Connection to GAICVMCSS2.CORP.CASTSOFTWARE.COM:2280 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+2018-06-10 17:37:57 INFO  DBUtils:24 - Connecting to CSS Server :GAICVMCSS2.CORP.CASTSOFTWARE.COM
+2018-06-10 17:37:59 INFO  DBUtils:29 - URL to connect to DB : jdbc:postgresql://GAICVMCSS2.CORP.CASTSOFTWARE.COM:2280/postgres?user=operator&password=CastAIP&ssl=false
+2018-06-10 17:38:29 ERROR DBUtils:34 - Could not connect to the db with given credentials : Connection to GAICVMCSS2.CORP.CASTSOFTWARE.COM:2280 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.

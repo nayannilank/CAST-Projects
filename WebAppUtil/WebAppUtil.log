@@ -1,0 +1,3 @@
+2018-06-14 12:47:54 INFO  PropertyLoader:24 - Loading Tomcat installations list.
+2018-06-14 12:47:54 INFO  PropertyLoader:31 - Loaded tomcat installation list : E:\Tomcat 7.0,E:\Tomcat 7.0 - 8081,E:\TomcatTest 7.0,E:\Tomcat 7.0 - 8082,E:\Tomcat 7.0 - 8083,E:\Tomcat 7.0 - 8084,E:\Tomcat 7.0 - 8085,E:\Tomcat 7.0_Tomcat7-8087,E:\Tomcat2,E:\Tomcat8-8005
+2018-06-14 12:47:54 INFO  PropertyLoader:42 - Fetching installations lists from : E:\Tomcat 7.0,E:\Tomcat 7.0 - 8081,E:\TomcatTest 7.0,E:\Tomcat 7.0 - 8082,E:\Tomcat 7.0 - 8083,E:\Tomcat 7.0 - 8084,E:\Tomcat 7.0 - 8085,E:\Tomcat 7.0_Tomcat7-8087,E:\Tomcat2,E:\Tomcat8-8005
